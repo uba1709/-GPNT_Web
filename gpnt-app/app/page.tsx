@@ -21,7 +21,7 @@ export default function Home() {
         
         <div className={styles.actions}>
           <button className={styles.btnPrimary}><a href="https://trucksbook.eu/company/178748" target='_blank'>ZŁÓŻ PODANIE</a></button>
-          <button className={styles.btnSecondary}>NASZA FLOTA</button>
+          <button className={styles.btnSecondary}>NASZA FLOTA 🏗️</button>
         </div>
       </div>
 
