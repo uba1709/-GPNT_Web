@@ -33,11 +33,11 @@ export default function Home() {
         </div>
         <div className={styles.statItem}>
           <span>Dystans</span>
-          <strong>17 000 KM</strong>
+          <strong>16 860 KM</strong>
         </div>
         <div className={styles.statItem}>
           <span>Ranking</span>
-          <strong className={styles.accent}>#39124</strong>
+          <strong className={styles.accent}>#5238</strong>
         </div>
       </div>
     </section>
