@@ -39,7 +39,7 @@ export default function Home() {
     <section className={styles.hero}>
       <div className={styles.videoWrapper}>
         <video autoPlay loop muted playsInline className={styles.video}>
-          <source src="/BackgroundViedo3.mp4" type="video/mp4" />
+          <source src="./BackgroundViedo3.mp4" type="video/mp4" />
         </video>
         <div className={styles.overlay}></div>
       </div>
