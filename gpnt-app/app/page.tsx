@@ -50,7 +50,7 @@ export default function Home() {
           Greater Poland <br /> Navigation Technologies<br />
         </h1>
         <p className={styles.description}>
-          Flota TruckBook. Precyzja, i pasja, która napędza każdy pokonany kilometr.
+          Flota TruckBook. Precyzja, i pasja, która napędza każdy pokonany kilometr
         </p>
         
         <div className={styles.actions}>
